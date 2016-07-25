@@ -1,6 +1,6 @@
 public class Player {
 	public static int Goallength = 30;
-	public static int Dice = 6;
+	public static int Dice = 12;
 	public static int player = 2;
 	public String name;
 	public int loc = 0;
